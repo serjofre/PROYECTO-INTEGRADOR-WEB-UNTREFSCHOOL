@@ -87,9 +87,7 @@
   a img {
     width: 30px;
   } 
-
   
-   
   article {
     border: solid 1px  #1F8A70;
     padding-left: 4px;
@@ -171,7 +169,8 @@
       font-size: small;
     }
      
-     nav   { display: flex;
+     nav {
+      display: flex;
       flex-direction: column;
       align-content: flex-end;
       align-items: end;
