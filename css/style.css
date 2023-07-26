@@ -64,7 +64,7 @@
        
   }
   
-  a:hover, :focus {
+  a:hover {
       text-decoration: none;
       font-family: "Belanosima", sans-serif;
       font-size: 150%;
