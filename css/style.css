@@ -171,12 +171,15 @@
     }
     nav a {
       font-family: "Belanosima", sans-serif;
-      font-size: small;
+      font-size: large;
       margin-right: 1em;
       margin-top: .1em;
       margin-bottom: .1em;
           }
-     
+    /*para tener distinto tamaño de letra en el formulario+*/
+     form {
+      font-size: x-large;
+     }
      nav {
       display: flex;
       flex-direction: column;
@@ -213,6 +216,11 @@
       h1{
         font-size: 27px;
       } 
+      /*para tener distinto tamaño de letra en el formulario+*/
+      form {
+        font-size: medium;
+       }
+
       nav {
       padding: 10px 20px;
       display: flex;
@@ -247,6 +255,11 @@
       h1{
         font-size: 30px;
       }
+      /*para tener distinto tamaño de letra en el formulario+*/
+      form {
+        font-size: small;
+       }
+
     nav a{
       font-size: medium;
     }
