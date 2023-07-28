@@ -178,7 +178,8 @@
           }
     /*para tener distinto tamaño de letra en el formulario+*/
      form {
-      font-size: x-large;
+      font-size: xx-large;
+
      }
      nav {
       display: flex;
