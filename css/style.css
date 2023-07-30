@@ -134,7 +134,7 @@
    background-image: url(..//img/email-marketing-sobres-volando.jpg);
    background-size: 100vw 100vh;
    background-attachment: fixed;
-   margin: 0;
+   margin: 5px;
   }
   
   form {
